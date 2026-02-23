@@ -12,7 +12,7 @@ This paper presents the system developed by team priyam_saha17 for the SVELA (Se
 ![Pipeline Diagram](Pipeline.png)
 
 ### SVELA Website:
-The SVELA homepage can be accessed here: [Leaderboard Link](https://svela-task.github.io/index.html)
+The SVELA homepage can be accessed here: [SVELA Link](https://svela-task.github.io/index.html)
 
 ### Final evaluation:
 On the official leaderboards, the system ranked first in all four tracks. For Task 1, mean scores of 0.3428 (1B param models) and 0.3565 (3B param models) were achieved, while for Task 2 the system obtained mean scores of 0.3345 (1B param models) and 0.3335 (3B param models) 
